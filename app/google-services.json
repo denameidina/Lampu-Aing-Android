@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "753686863260",
+    "firebase_url": "https://lampu-aing.firebaseio.com",
+    "project_id": "lampu-aing",
+    "storage_bucket": "lampu-aing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753686863260:android:2ecc8b361d2b41ac",
+        "android_client_info": {
+          "package_name": "id.co.altheastudio.lampuaing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753686863260-3faio4bietvb4223b5ssi26v3tnq4h62.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.co.altheastudio.lampuaing",
+            "certificate_hash": "8e4eaa33b213e2cafbeabc33f509645dbd822ad3"
+          }
+        },
+        {
+          "client_id": "753686863260-1mr6s4h2qk4dnv8apq3uigufrctgq8h8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD1tK_MDrKu_4mlJKYiSMGtZB-bM4zq9w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753686863260-1mr6s4h2qk4dnv8apq3uigufrctgq8h8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
